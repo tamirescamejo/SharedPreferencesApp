@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SharedPreferencesApp</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_name">Nome</string>
+    <string name="prompt_password">Senha</string>
+    <string name="prompt_password_confirmation">Confirme sua senha</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_register">Criar uma nova conta</string>
+    <string name="action_register_confirmation">Finalizar registro!</string>
+    <string name="welcome">"Bem vinde!"</string>
+    <string name="invalid_username">Não é um usuário válido</string>
+    <string name="invalid_password">Senha deve conter mais de >5 caracteres</string>
+    <string name="login_failed">"Login falhou"</string>
+
+    <string name="salvar_login_e_senha">Salvar Login e Senha</string>
+</resources>
